@@ -1,4 +1,5 @@
 # openbootcamp
+
 Repositorio temporal para openbootcamp
 
 ## Cursos
@@ -10,4 +11,4 @@ Repositorio temporal para openbootcamp
 - [x] Ejercicio 3
 - [x] Ejercicio 4
 - [x] Ejercicio 8
-- [ ] Ejercicio 9
+- [x] Ejercicio 9
