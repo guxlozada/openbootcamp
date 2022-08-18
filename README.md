@@ -8,6 +8,6 @@ Repositorio temporal para openbootcamp
 ### Introducción a la programación
 
 - [x] Ejercicio 3
-- [ ] Ejercicio 4
-- [ ] Ejercicio 8
+- [x] Ejercicio 4
+- [x] Ejercicio 8
 - [ ] Ejercicio 9
