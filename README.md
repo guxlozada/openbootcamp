@@ -17,8 +17,9 @@ Repositorio temporal para openbootcamp
 
 ## Java básico
 
-- [x] Ejercicio 1
-
+- [x] Ejercicios tema 1
+- [x] Ejercicios tema 2
+- [x] Ejercicios tema 3
 
 
 
